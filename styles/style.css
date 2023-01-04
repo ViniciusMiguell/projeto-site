@@ -28,3 +28,14 @@ h2{
 img.lado{
     float: right;
 }
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 0, 63);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(0, 0, 63);
+}
